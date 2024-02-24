@@ -23,4 +23,3 @@ https://lynsone.github.io/web_tool/
 
 - https://web-a55.pages.dev/
 
-- https://hrzhanghuan.com
